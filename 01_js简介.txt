@@ -1,0 +1,8 @@
+1、通过document.write 向文档书写内容
+2、通过console.log() 向控制台输入内容
+
+关于变量
+ 1、undefined （变量只声明未赋值或赋予一个不存在的值）
+ 2、null （表示空值 与undefined的区别是undefined表示变量未被赋值，而null表变量被赋予了一个空值）
+ null==undefined 为true表示两者值是相同的，
+ null===undefined 为false 表示两者的类型是不同的
